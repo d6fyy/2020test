@@ -48,3 +48,42 @@ As Kanye West said:
 >the present is our past
 
 BACKSLASH ESCAPES
+
+\*literal asterisks\* 
+
+\\literal asterisks\* 
+
+\`literal asterisks\* 
+
+\()literal asterisks\* 
+
+\_literal asterisks\* 
+
+\#literal asterisks\* 
+
+\+literal asterisks\* 
+
+\-literal asterisks\* 
+
+\[]literal asterisks\* 
+
+\{}literal asterisks\* 
+
+\.literal asterisks\*
+
+\!literal asterisks\* 
+
+TASK LIST
+
+-[x] @mentions, #refs, [link](), ***formatting*, and <del>tag</del>
+
+supported
+-[x] list syntax required
+
+
+unsupported
+
+
+``Javascript
+  
+``
