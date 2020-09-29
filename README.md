@@ -84,11 +84,14 @@ supported
 unsupported
 
 
-``Javascript
+```Javascript
+
   document.getElementById("demo").style.display = "block";
+
 ``
 
-``pyth
+```python
+
   print("Hello, World!")
 
-``
+```
