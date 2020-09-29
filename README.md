@@ -75,7 +75,7 @@ BACKSLASH ESCAPES
 
 TASK LIST
 
--[x] @mentions, #refs, [link](), ***formatting*, and <del>tag</del>
+-[ ] @mentions, #refs, [link](), ***formatting*, and <del>tag</del>
 
 supported
 -[x] list syntax required
