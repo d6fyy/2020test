@@ -75,15 +75,20 @@ BACKSLASH ESCAPES
 
 TASK LIST
 
--[ ] @mentions, #refs, [link](), ***formatting*, and <del>tag</del>
+- [x] @mentions, #refs, [link](), ***formatting*, and <del>tag</del>
 
 supported
--[x] list syntax required
+- [x] list syntax required
 
 
 unsupported
 
 
 ``Javascript
-  
+  document.getElementById("demo").style.display = "block";
+``
+
+``pyth
+  print("Hello, World!")
+
 ``
