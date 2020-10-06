@@ -39,6 +39,10 @@ Ordered
 IMAGES
 ![](182513897.png "高科大")
 
+IMAGES SIZE
+![](182513897.png "高科大")
+<img src="https://github.com/d6fyy/2020test/blob/master/182513897.png" alt="Your image title" width="250"/>
+
 LINKS
 <https://www.nkust.edu.tw/index.php>
 
