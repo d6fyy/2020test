@@ -128,6 +128,10 @@ EMOJI
 
 :octocat:
 
+![](https://i.imgur.com/9cgQVqD.png)
 
+:::info
+:bulb: **提示**: 如您使用私有團隊方案，圖片會上傳到私有的 S3 空間，且只能透過筆記存取圖片。
+:::
 
 
